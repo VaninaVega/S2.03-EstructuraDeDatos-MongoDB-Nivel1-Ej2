@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "67c9bc9963531d06464246b1"
+  },
+  "name": "Más Visión",
+  "address": {
+    "street": "Av. Roma",
+    "number": 436,
+    "floor": 2,
+    "door": "A",
+    "city": "Barcelona",
+    "postal_code": "28001",
+    "country": "Spain"
+  },
+  "phone": "+387654567876",
+  "fax": "+347890987658",
+  "NIF": "B87654321"
+},
+{
+  "_id": {
+    "$oid": "67c9bc9963531d06464246b2"
+  },
+  "name": "Óptica Universitaria",
+  "address": {
+    "street": "Avenida Josep Taradellas ",
+    "number": 78,
+    "floor": 1,
+    "door": "C",
+    "city": "Barcelona",
+    "postal_code": "08029",
+    "country": "Spain"
+  },
+  "phone": "+398765678765",
+  "fax": "+3345676567898",
+  "NIF": "Y0987653456F"
+}]

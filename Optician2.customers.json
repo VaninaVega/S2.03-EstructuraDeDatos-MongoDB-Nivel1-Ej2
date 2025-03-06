@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "67c9b9cf137fdef53b88e97e"
+  },
+  "name": "Martina Paez",
+  "postal_address": "C/ Alcalá, 100, Madrid",
+  "phone": "+34 600 123 456",
+  "email": "luis.fernandez@email.com",
+  "registration_date": {
+    "$date": "2024-02-15T09:30:00.000Z"
+  },
+  "recommended_by": null
+},
+{
+  "_id": {
+    "$oid": "67c9bad863531d06464246a8"
+  },
+  "name": "Valentina Bravo",
+  "postal_address": "C/ Anares, 540, Madrid",
+  "phone": "+34 60657766666",
+  "email": "lvalentina@gmail.com",
+  "registration_date": {
+    "$date": "2025-01-15T09:30:00.000Z"
+  },
+  "recommended_by": null
+},
+{
+  "_id": {
+    "$oid": "67c9bad863531d06464246a9"
+  },
+  "name": "Javier López",
+  "postal_address": "Av. Rambla, 55, Badalona",
+  "phone": "+34 650 789 123",
+  "email": "javier@gmail.com",
+  "registration_date": {
+    "$date": "2023-02-18T14:00:00.000Z"
+  },
+  "recommended_by": {
+    "$oid": "67c9bad863531d06464246a8"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c9bad863531d06464246aa"
+  },
+  "name": "Karla García",
+  "postal_address": "C/ Independencia, 120, Sevilla",
+  "phone": "+34 620 456 789",
+  "email": "karla@gmail.com",
+  "registration_date": {
+    "$date": "2019-11-05T11:45:00.000Z"
+  },
+  "recommended_by": {
+    "$oid": "67c9bad863531d06464246a9"
+  }
+}]

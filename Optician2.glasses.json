@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "67c9bbfd63531d06464246ad"
+  },
+  "brand": "RayBan",
+  "frame_type": "Pasta",
+  "frame_color": "Black",
+  "lens_graduation": {
+    "left": "1.50",
+    "right": "1.00"
+  },
+  "lens_color": {
+    "left": "Green",
+    "right": "Green"
+  },
+  "price": 95.8,
+  "buyers": [
+    {
+      "$oid": "67c9bad863531d06464246a8"
+    },
+    {
+      "$oid": "67c9bad863531d06464246a9"
+    }
+  ],
+  "supplier_id": {
+    "$oid": "67c9bc9963531d06464246b1"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c9bbfd63531d06464246ae"
+  },
+  "brand": "MasVision",
+  "frame_type": "metallic",
+  "frame_color": "Blue",
+  "lens_graduation": {
+    "left": "2.50",
+    "right": "2.25"
+  },
+  "lens_color": {
+    "left": "Gray",
+    "right": "Gray"
+  },
+  "price": 100,
+  "buyers": [
+    {
+      "$oid": "67c9bad863531d06464246aa"
+    }
+  ],
+  "supplier_id": {
+    "$oid": "67c9bc9963531d06464246b2"
+  }
+}]
